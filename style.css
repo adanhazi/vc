@@ -30,3 +30,21 @@ nav a{
 nav a:hover{
     color: #ffd700;
 }
+
+/* The about page css */
+
+.divbox{
+    width: 50rem;
+    border: 1px solid gray !important;
+    border-radius: 2rem;
+    position: relative;
+    left: 25%;
+}
+.heading{
+    position: relative;
+    left: 40%;
+    width: 25rem;
+}
+.bbg{
+    background-color: antiquewhite;
+}
